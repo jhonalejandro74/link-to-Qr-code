@@ -8,18 +8,31 @@
     src: url(../Assets/fonts/Outfit-SemiBold.ttf) format('truetype');
 
 }
-
+.App{
+    justify-content: center;
+}
 body {
     background-color: rgb(216, 224, 238);
     box-sizing: border-box;
+    font-family: Outfit;
+    display: flex;
+    justify-content: center;
 
 }
 .set-Qr-container{
-    margin-top: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
     text-align: center;
 }
-
+.set-Qr-container label{
+    max-width: 400px;
+}
+.set-Qr-container label h2{
+    margin:5px;
+}
 img {
+    border-color: rgb(59, 122, 242);
+    border-style: solid;
     border-radius: 10px;
     width: 100%;
     height: 260px;
@@ -31,7 +44,6 @@ article h2 {
 }
 
 article p {
-    font-family: Outfit;
     font-size: 15px;
 }
 
@@ -57,5 +69,5 @@ article p {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: rgb(59, 122, 242);
 }

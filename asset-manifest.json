@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/link-to-Qr-code/static/css/main.97ce41f4.css",
+    "main.js": "/link-to-Qr-code/static/js/main.4d97f35f.js",
+    "static/js/787.444defb3.chunk.js": "/link-to-Qr-code/static/js/787.444defb3.chunk.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/link-to-Qr-code/static/media/Outfit-VariableFont_wght.bc779fb16a97a6842a72.ttf",
+    "static/media/Outfit-SemiBold.ttf": "/link-to-Qr-code/static/media/Outfit-SemiBold.59efc76d343a6215384a.ttf",
+    "index.html": "/link-to-Qr-code/index.html",
+    "main.97ce41f4.css.map": "/link-to-Qr-code/static/css/main.97ce41f4.css.map",
+    "main.4d97f35f.js.map": "/link-to-Qr-code/static/js/main.4d97f35f.js.map",
+    "787.444defb3.chunk.js.map": "/link-to-Qr-code/static/js/787.444defb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ce41f4.css",
+    "static/js/main.4d97f35f.js"
+  ]
+}

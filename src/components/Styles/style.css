@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Outfit;
+    src: url(../Assets/fonts/Outfit-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Outfit-SemiBold;
+    src: url(../Assets/fonts/Outfit-SemiBold.ttf) format('truetype');
+
+}
+
+body {
+    background-color: rgb(216, 224, 238);
+    box-sizing: border-box;
+
+}
+.set-Qr-container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    height: 260px;
+
+}
+article h2 {
+    font-family: Outfit-SemiBold;
+    font-size: 18px;
+}
+
+article p {
+    font-family: Outfit;
+    font-size: 15px;
+}
+
+.container-Qr {
+
+    background-color: hsl(0, 0%, 100%);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    border-radius: 10px;
+    width: 250px;
+    height: 420px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+    text-align: center;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
